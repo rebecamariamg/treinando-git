@@ -1,4 +1,7 @@
 Primeira linha do tutorial
 Segunda linha
 Terceira
-Adicionando ultima linha do arquivo
+Quarta linha
+Quinta
+Sexta
+Setima
